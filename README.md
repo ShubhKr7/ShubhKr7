@@ -15,7 +15,7 @@ I'm currently practising DSA in JAVA.<br>Also nourished my web development skill
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShubhKr7&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Thought of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
